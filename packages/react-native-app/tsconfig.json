@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "jsx": "react-jsx"
+  },
+  "include": [
+    "screens/*",
+    "components/*",
+    "services/*"
+  ],
+  "extends": "expo/tsconfig.base"
+}
